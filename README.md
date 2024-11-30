@@ -24,7 +24,7 @@ The **RT_SpeechTranslator** is a real-time speech translation tool that enables 
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/Altricch/RealTime_SpeechTranslator_for_Presentations
-   cd RT_SpeechTranslator
+
    ```
 
 2. **Install Dependencies**:  
