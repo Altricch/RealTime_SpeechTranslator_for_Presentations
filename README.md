@@ -1,6 +1,11 @@
 
 # Real-Time Speech Translator for PowerPoint Presentations
 
+
+![Example Image](Example.png)
+
+
+
 The **RT_SpeechTranslator** is a real-time speech translation tool that enables seamless translation of spoken English into Italian during PowerPoint presentations. It leverages machine learning and modern UI frameworks to deliver a smooth and accessible user experience.
 
 ## Features
