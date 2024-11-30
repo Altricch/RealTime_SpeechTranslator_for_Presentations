@@ -1,0 +1,6 @@
+
+speechrecognition
+sounddevice
+transformers
+scipy
+numpy
